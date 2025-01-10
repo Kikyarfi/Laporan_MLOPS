@@ -60,12 +60,22 @@ Laporan Kapita Selekta Sains Data
   ![Gambar](gambar_screenshot/Picture10.png)
 
   ![Gambar](gambar_screenshot/Picture11.png)
-
+  
+  - Model Name : MLP Classifier
+    
+    Run Name : trusting-shrimp-161
   ![Gambar](gambar_screenshot/Picture12.png)
 
+  - Model Name : Random Forest
+    
+   Run Name : delicate-wolf-398
   ![Gambar](gambar_screenshot/Picture13.png)
-
+  
+  - Modell Name : Logistic Regression
+    
+    Run Name : salty-worm-160
   ![Gambar](gambar_screenshot/Picture14.png)
+  
 
 - Analysis of model performance
   performa model dapat dilihat melalui nilai akurasi yang dicapai. Model "trusting-shrimp-161" memiliki akurasi sebesar 0.50, menunjukkan performa yang cukup rendah dalam menyelesaikan tugasnya. Model "salty-worm-160" sedikit lebih baik dengan akurasi 0.59, namun masih berada di bawah tingkat akurasi yang optimal. Model dengan performa terbaik adalah "delicate-wolf-398", dengan akurasi sebesar 0.71, yang lebih menjanjikan dibandingkan dua model lainnya. Dengan demikian, model "delicate-wolf-398" saat ini merupakan kandidat terbaik di antara ketiga model yang dievaluasi, tetapi mungkin masih memerlukan penyempurnaan untuk mencapai akurasi yang lebih tinggi.
